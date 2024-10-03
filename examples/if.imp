@@ -1,0 +1,7 @@
+x = 12;
+
+if x == 12 then
+    print 12
+else
+    print 14
+end
