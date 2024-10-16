@@ -19,6 +19,6 @@ The concrete syntax is of course not described in the book, but you can investig
 
 ## References:
 
-This project used [parsec]() to write the parser.
+This project uses [parsec](https://hackage.haskell.org/package/parsec-2.1.0.0) for its parser.
 
 [1] The Formal Semantics of Programming Languages: An Introduction, Glynn Winskel, 1993
